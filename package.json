@@ -1,5 +1,6 @@
 {
   "name": "Circle-Codeload-404-Bug-Repro",
+  "private": true,
   "scripts": {
     "clean": "rm -rf ios/build; rm -rf ios/build; rm -rf android/build; rm -rf android/app/build; rm -rf $TMPDIR/react* ; rm -f ios/main.jsbundle; rm -rf node_modules",
     "test": "echo WORKS",
