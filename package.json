@@ -5,6 +5,7 @@
     "postinstall": "yarn upgrade navigation-experimental-fork"
   },
   "dependencies": {
-    "navigation-experimental-fork": "github:StardustSolutions/navigation-experimental-fork"
+    "navigation-experimental-fork": "github:StardustSolutions/navigation-experimental-fork",
+    "redis": "^2.8.0"
   }
 }
