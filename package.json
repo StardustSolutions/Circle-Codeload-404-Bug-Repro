@@ -1,0 +1,9 @@
+{
+  "name": "Circle-Codeload-404-Bug-Repro",
+  "scripts": {
+    "test": "echo WORKS"
+  },
+  "dependencies": {
+    "navigation-experimental-fork": "github:StardustSolutions/navigation-experimental-fork",
+  },
+}
