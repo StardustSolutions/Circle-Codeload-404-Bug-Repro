@@ -1,11 +1,13 @@
 {
   "name": "Circle-Codeload-404-Bug-Repro",
   "scripts": {
+    "clean": "rm -rf ios/build; rm -rf ios/build; rm -rf android/build; rm -rf android/app/build; rm -rf $TMPDIR/react* ; rm -f ios/main.jsbundle; rm -rf node_modules",
     "test": "echo WORKS",
     "postinstall": "yarn upgrade navigation-experimental-fork"
   },
   "dependencies": {
     "navigation-experimental-fork": "github:StardustSolutions/navigation-experimental-fork",
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "ua-parser": "^0.3.5"
   }
 }

@@ -12,6 +12,7 @@ dependencies:
     - node --version || brew install node
     - npm install --global yarn@1.3.2
     - yarn config set registry https://registry.npmjs.org
+    - npm run clean
     - yarn
   cache_directories:
     - ~/Documents/FacebookSDK/
