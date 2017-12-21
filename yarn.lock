@@ -4219,9 +4219,9 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
 
-"navigation-experimental-fork@github:StardustSolutions/navigation-experimental-fork":
+"navigation-experimental-fork@https://github.com/StardustSolutions/navigation-experimental-fork/tarball/master":
   version "1.0.5"
-  resolved "https://codeload.github.com/StardustSolutions/navigation-experimental-fork/tar.gz/b98e23e3f3fae5dc95b328176255d8d57c7b1acf"
+  resolved "https://github.com/StardustSolutions/navigation-experimental-fork/tarball/master#ae1af02e84a86fb266840d4ef3595f6bfc771359"
   dependencies:
     prop-types "^15.6.0"
 
